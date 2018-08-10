@@ -27,3 +27,8 @@ Frontend (NODEJS * / ANGULAR / REACJS / IONIC )
 DB (ORM->EF / HIBERNATE)
 
 CLOUD 
+
+HASHMAP
+-------
+ResultSet --> HashMap
+
