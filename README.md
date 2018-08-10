@@ -34,3 +34,6 @@ HASHMAP
 ------
 - ResultSet --> HashMap
 - doc java treemap
+
+Profesor: Alvaro Fuentes
+alvarofue@gmail.com
